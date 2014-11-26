@@ -5,3 +5,4 @@ class Vector:
 	def add(v):
 		self.x += v.x
 		self.y += v.y
+	def sub(v):
