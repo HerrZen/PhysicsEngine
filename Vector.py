@@ -6,3 +6,5 @@ class Vector:
 		self.x += v.x
 		self.y += v.y
 	def sub(v):
+		self.x -= v.x
+		self.y -= v.y
